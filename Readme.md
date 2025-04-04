@@ -9,16 +9,16 @@ I am **Innovative**, **Scalable**  and **Efficient**.
 
 ## ⚙️ Skills
 ### Programming Languages
-Python, Java, C++, SQL, JavaScript, TypeScript
+Python, Java, C, C++, SQL, JavaScript, TypeScript
 
 ### Frontend Development
-React.js (Hooks, Redux), Next.js, Angular, HTML5, CSS3 (Flexbox, Grid), IntelliJ IDEA, PyCharm, Visual Studio Code, Postman (API Testing), Unit Testing (Pytest, JUnit), Swagger
+React.js, Angular, HTML5, CSS, IntelliJ IDEA, PyCharm, Visual Studio Code, Postman (API Testing), Unit Testing (Pytest, JUnit), Swagger
 
 ### Backend Development
-Flask, Django, Spring Boot (Java), Node.js (Express), RESTful API design, Swagger/OpenAPI documentation, JSON, JWT authentication, Git, GitHub, Docker, Kubernetes, CI/CD Pipelines, Jenkins, AWS (EC2, Lambda), GCP, Azure
+Spring Boot (Java), Node.js (Express), RESTful API design, Swagger/OpenAPI documentation, JSON, JWT authentication, Git, GitHub, Docker, Kubernetes, CI/CD Pipelines, Jenkins, AWS (EC2, Lambda), Azure
 
 ### Databases
-Caching (Redis), PostgreSQL, MySQL (Relational), MongoDB (NoSQL)
+Caching (Redis), PostgreSQL, MySQL (Relational)
 
 ### AI & Machine Learning
 TensorFlow, PyTorch, Natural Language Processing, Pandas, Scikit-learn, Keras
